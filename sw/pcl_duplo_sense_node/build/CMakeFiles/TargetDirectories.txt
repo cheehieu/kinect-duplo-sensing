@@ -1,0 +1,17 @@
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/clean-test-results.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/duplo_samesize.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/duplo_samesize_kinect_old.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/rosbuild_precompile.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/rospack_genmsg.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/rospack_gensrv.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/test.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/test-future.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/test-results.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/test-results-run.dir
+/home/hieu/ros_workspace/my_pcl_tutorial/build/CMakeFiles/tests.dir
