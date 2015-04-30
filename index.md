@@ -62,19 +62,21 @@ After Duplo brick segmentation, size estimation, and size classification, the RO
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/term_1.png">
 
 The clusters are labeled with their cluster indices, and are color-coded based on their brick type; the input point cloud retains its original RGB color values. Brick type 1x1 is colored RED, type 1x2 is colored YELLOW, type 1x4 is colored BLUE, and type “unclassified” is colored WHITE.
-<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_1.png" width="100%">
+<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_1.jpg" width="100%">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/results_size.png" width="100%">
 
 ## Results
 Here are some additional static Duplo configurations that were used to test the algorithm: 
 
-<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_2.png" width="100%">
+<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_2.jpg" width="100%">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/viewer2.png" width="100%">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/term_2.png">
 - - -
-<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_3.png" width="100%">
+- - -
+<img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group2_3.jpg" width="100%">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/viewer3.png" width="100%">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/term_3.png">
+- - -
 - - -
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/group8_new1.jpg">
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/many_duplos.png" width="100%">
@@ -87,7 +89,7 @@ The algorithm was further tested with a Kinect sensor to obtain point cloud data
 
 The algorithm correctly segmented and classified all Duplo bricks in the scene. Because the Kinect sensor publishes a new PointCloud2 message every two seconds, the algorithm is running in near-real-time. As the point cloud data changes (when Duplo bricks are added/removed or reoriented), the algorithm reacts accordingly and outputs the correct results.
 
-<iframe width="100%" src="https://www.youtube.com/embed/S1WBPGSog2c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/S1WBPGSog2c" frameborder="0" allowfullscreen></iframe>
 
 
 ## Limitations
