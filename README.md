@@ -84,7 +84,7 @@ The algorithm was further tested with a Kinect sensor to obtain point cloud data
 
 <img src="http://niftyhedgehog.com/kinect-duplo-sensing/images/demo_setup.jpg" width="100%">
 
-The algorithm correctly segmented and classified all Duplo bricks in the scene. Because the Kinect sensor publishes a new PointCloud2 message every two seconds, the algorithm is running in near-real-time. As the point cloud data changes (when Duplo bricks are added/removed or reoriented), the algorithm reacts accordingly and outputs the correct results.
+The algorithm correctly segmented and classified all Duplo bricks in the [scene](https://www.youtube.com/embed/S1WBPGSog2c). Because the Kinect sensor publishes a new PointCloud2 message every two seconds, the algorithm is running in near-real-time. As the point cloud data changes (when Duplo bricks are added/removed or reoriented), the algorithm reacts accordingly and outputs the correct results.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/S1WBPGSog2c" frameborder="0" allowfullscreen></iframe>
 <!--video src="http://niftyhedgehog.com/kinect-duplo-sensing/images/duplo_sensing_demo.mp4" width="100%" height="400px" controls="controls"></video-->
